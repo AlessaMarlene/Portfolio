@@ -8,7 +8,7 @@ const Projects = () => {
         <div className="projectsWrapper">
             <Link to="/personalInfo">Back to Presentation</Link>
             <div className="projects">
-                {projects.map((project) => <Projectitem project={project}/>)}
+                {projects.map((project) => <Projectitem key={project.name} project={project}/>)}
             </div>
         </div>
     );
