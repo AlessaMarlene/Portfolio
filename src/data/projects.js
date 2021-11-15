@@ -13,7 +13,7 @@ import team from '../assets/my-team.png';
 import planets from '../assets/the-planets.png';
 import time from '../assets/time-track.png';
 
-export default [
+const projects = [
     {
         name: 'Afro Card',
         image: afro,
@@ -85,3 +85,5 @@ export default [
         link: 'https://sharathkrml.github.io/time-track/'
     }
 ]
+
+export default projects;
