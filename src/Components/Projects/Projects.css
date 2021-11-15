@@ -1,0 +1,22 @@
+.projectsWrapper, .projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projectsWrapper{
+    width: 80%;
+    background-color: #439e92;
+    flex-direction: column;
+}
+
+.projectsWrapper > a{
+    padding: 20px 20px 5px 0;
+    align-self: flex-end;
+}
+
+.projects{
+    flex-wrap: wrap;
+    row-gap: 20px;
+    padding: 25px;
+}

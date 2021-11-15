@@ -1,0 +1,21 @@
+.projectItem{
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projectItem img{
+    width: 80%;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.projectItem h2{
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.projectItem a:hover{
+    color: #2d7d84;
+}

@@ -1,6 +1,8 @@
+import './Name.css';
+
 const Name = () => {
     return(
-        <h1>Marlene Taca</h1>
+        <h1 className="name">Marlene Taca</h1>
     );
 }
 
