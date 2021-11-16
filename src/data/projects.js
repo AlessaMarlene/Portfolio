@@ -12,6 +12,7 @@ import vase from '../assets/vase-card.png';
 import team from '../assets/my-team.png';
 import planets from '../assets/the-planets.png';
 import time from '../assets/time-track.png';
+import arch from '../assets/arch.png';
 
 const projects = [
     {
@@ -83,6 +84,11 @@ const projects = [
         name: 'Time Track Page',
         image: time,
         link: 'https://sharathkrml.github.io/time-track/'
+    },
+    {
+        name: 'Arch Page',
+        image: arch,
+        link: 'https://serene-williams-c9c7ac.netlify.app'
     }
 ]
 
