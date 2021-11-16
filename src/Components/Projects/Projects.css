@@ -8,6 +8,7 @@
     width: 80%;
     background-color: #439e92;
     flex-direction: column;
+    border-radius: 8px;
 }
 
 .projectsWrapper > a{

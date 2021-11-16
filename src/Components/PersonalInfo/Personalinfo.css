@@ -1,4 +1,6 @@
 .personalInfo{
     width: 60%;
     background-color: #439e92;
+    border-radius: 8px;
+    overflow: hidden;
 }

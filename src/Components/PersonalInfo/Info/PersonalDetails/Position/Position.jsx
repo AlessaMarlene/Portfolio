@@ -1,6 +1,8 @@
+import './Position.css';
+
 const Position = () => {
     return(
-        <h3>Frontend Developer</h3>
+        <h3 className="position">Frontend Developer</h3>
     );
 }
 
