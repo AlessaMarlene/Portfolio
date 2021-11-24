@@ -7,3 +7,7 @@
     text-align: center;
     font-size: 1.2em;
 }
+
+.socialLinks p a{
+    padding-left: 10px;
+}
